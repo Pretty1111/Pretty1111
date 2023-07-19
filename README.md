@@ -2,7 +2,7 @@
 
 ## Introduction
 Hello! My name is [Your Name], and I am a researcher, data analyst, and app creator. This profile provides an overview of my skills, experiences, and interests in these areas. I have a passion for leveraging data-driven insights to drive meaningful outcomes and creating innovative solutions through app development. 
-
+<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
 ## Skills
 - **Research**: I have experience conducting research, analyzing data, and writing research papers. I am proficient in gathering and interpreting data, conducting literature reviews, and presenting research findings.
 
