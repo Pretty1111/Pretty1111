@@ -1,32 +1,28 @@
 # About Me
 
 ## Introduction
-Hello! My name is [Your Name], and I am a researcher, data analyst, and app creator. This profile provides an overview of my skills, experiences, and interests in these areas. I have a passion for leveraging data-driven insights to drive meaningful outcomes and creating innovative solutions through app development. 
+Hello! My name is Pretty Karibo, and I am a researcher, data analyst, and app creator with a knack for translating complex data into insightful, actionable strategies. My expertise lies in Python Programming 🐍, Web Development with HTML 🌐, CSS 🎨, JavaScript ✨, Data Analysis 📈, and Data Visualization 📊. I have a passion for leveraging data-driven insights to drive meaningful outcomes and creating innovative solutions through app development. 
 
 ## Skills
-- **Research**: I have experience conducting research, analyzing data, and writing research papers. I am proficient in gathering and interpreting data, conducting literature reviews, and presenting research findings.
+- Programming: Python, HTML, CSS, JavaScript
+- Data Analysis and Visualization: Plotly, Matplotlib, Seaborn
+- Machine Learning: Linear regression
+- Web Development: Dash, Bootstrap
+- Research
 
-- **Data Analysis**: I am skilled in data analysis using various tools and programming languages such as Python, R, and SQL. I have experience cleaning and preprocessing data, performing statistical analysis, and generating visualizations.
+## Highlighted Projects
+**PolicyConnect UK - Interactive Poverty Analysis Tool**
+Leveraging the power of Python and Dash, I developed an interactive web application that assists UK policymakers in making informed decisions. It explores the impact of various socio-economic indicators on UK poverty levels, using machine learning models to simulate the effects of policy changes on poverty reduction. This tool offers dynamic, real-time visualizations and policy recommendations based on user manipulation of indicators.
 
-- **App Development**: I am proficient in app development, including both mobile and web applications. I have experience with front-end development using HTML, CSS, and JavaScript, as well as back-end development using frameworks such as Django and Flask.
+**Multi-Factor Analysis of Nigeria's Socio-Economic Conditions**
+I pioneered an insightful data visualization web app to shed light on Nigeria's socio-economic landscape. Utilizing Dash and Plotly, this interactive tool enables researchers, policymakers, and the public to delve into crucial socio-economic indicators. The app features compelling visualizations, including scatter plots and correlation heatmaps, which provide valuable insights into Nigeria's development patterns.
 
-## Projects
-Here are some notable projects I have worked on:
-
-- **Research Project**: I conducted a research project on [Topic], where I collected and analyzed data to investigate [Research Question]. The findings of this research were published in [Publication/Conference].
-
-- **Data Analysis Project**: I worked on a data analysis project for [Company/Organization], where I analyzed a large dataset to uncover insights and patterns. The results of the analysis led to actionable recommendations that improved [Outcome].
-
-- **App Development Project**: I created a mobile app called [App Name] that helps users track their fitness goals and provides personalized workout plans. The app was developed using React Native and integrated with a backend API for data management.
-
-## Education
-- **Bachelor's Degree**: I hold a Bachelor's degree in [Field of Study] from [University]. During my studies, I gained a strong foundation in research methodologies, data analysis techniques, and programming.
+For these and more, explore my repositories and witness my journey of transforming data into meaningful narratives and potent tools for decision-making.
 
 ## Contact Information
 If you would like to get in touch with me or discuss potential collaborations, feel free to reach out using the following contact information:
 
-- Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile URL]
+- Email: prettykaribo@gmail.com
 - GitHub: [Your GitHub Profile URL]
 
 Thank you for taking the time to review my profile. I look forward to connecting with you and exploring opportunities in research, data analysis, and app development!
