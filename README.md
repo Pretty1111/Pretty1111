@@ -23,6 +23,6 @@ For these and more, explore my repositories and witness my journey of transformi
 If you would like to get in touch with me or discuss potential collaborations, feel free to reach out using the following contact information:
 
 - Email: prettykaribo@gmail.com
-- GitHub: [Your GitHub Profile URL]
+- GitHub: https://github.com/Pretty1111
 
 Thank you for taking the time to review my profile. I look forward to connecting with you and exploring opportunities in research, data analysis, and app development!
