@@ -2,13 +2,13 @@
 
 ## Introduction
 Hello! My name is Pretty Karibo, and I am a researcher, data analyst, and app creator with a knack for translating complex data into insightful, actionable strategies. My expertise lies in Python Programming 🐍, Web Development with HTML 🌐, CSS 🎨, JavaScript ✨, Data Analysis 📈, and Data Visualization 📊. I have a passion for leveraging data-driven insights to drive meaningful outcomes and creating innovative solutions through app development. 
+## Technical Skills
+- Programming: Python (with libraries such as NumPy, Pandas, Scikit-learn for machine learning applications), SQL, HTML, CSS, JavaScript
+-	Data Visualization: Plotly, Matplotlib, Seaborn
+-	Business Intelligence and Interactive Visualization: Power BI, Dash
+-	Web Development: Dash (Python web framework), Bootstrap
+-	Tools: Jupyter Notebook, Git, Joblib, NVIVO, SPSS, Excel
 
-## Skills
-- Programming: Python, HTML, CSS, JavaScript
-- Data Analysis and Visualization: Plotly, Matplotlib, Seaborn
-- Machine Learning: Linear regression
-- Web Development: Dash, Bootstrap
-- Research
 
 ## Highlighted Projects
 **PolicyConnect UK - Interactive Poverty Analysis Tool**
