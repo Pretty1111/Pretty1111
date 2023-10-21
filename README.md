@@ -13,6 +13,7 @@ Hello! My name is Pretty Karibo, and I am a researcher, data analyst, and app cr
 ## Highlighted Projects
 **PolicyConnect UK - Interactive Poverty Analysis Tool**
 Leveraging the power of Python and Dash, I developed an interactive web application that can assist UK policymakers in making informed decisions. It explores the impact of various socio-economic indicators on UK poverty levels, using machine learning models to simulate the effects of policy changes on poverty reduction. This tool offers dynamic, real-time visualizations and policy recommendations based on user manipulation of indicators.
+
 **SpeedWise AccidentReductor**
 I created the SpeedWise AccidentReductor. It is a dynamic tool designed to inform road safety decisions in line with the Welsh Government's objectives. It combines predictive analytics with a simulator to evaluate speed policy implications and offers geospatial visualisations for localised accident predictions. Enhanced by features like region-specific dropdowns and custom feedback, this tool provides granular insights to guide evidence-based policy adjustments.
 
